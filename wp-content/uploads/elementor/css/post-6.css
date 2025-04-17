@@ -1,0 +1,37 @@
+.elementor-kit-6{--e-global-color-primary:#05162D;--e-global-color-secondary:#4A596E;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-39a4727:#022E3C;--e-global-typography-primary-font-family:"Barlow Condensed";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Barlow Condensed";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"UTM bedas";--e-global-typography-accent-font-weight:500;--e-global-typography-13ecd35-font-family:"harmonyos-sans";}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-6 e-page-transition{background-color:#FFBC7D;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'UTM bedas';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://wordpress/leader10x/wp-content/uploads/2025/04/00041-UTM-Bebas.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'harmonyos-sans';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('http://wordpress/leader10x/wp-content/uploads/2025/04/HarmonyOS_Sans_Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'harmonyos-sans';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('http://wordpress/leader10x/wp-content/uploads/2025/04/HarmonyOS_Sans_Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'harmonyos-sans';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('http://wordpress/leader10x/wp-content/uploads/2025/04/HarmonyOS_Sans_Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'harmonyos-sans';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('http://wordpress/leader10x/wp-content/uploads/2025/04/HarmonyOS_Sans_Thin.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
